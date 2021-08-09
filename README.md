@@ -1,6 +1,6 @@
-<p align="center">
-    # Bike-Share-Prediction-Internship-Project
-</p>
+<h1 align="center">Bike-Share-Prediction-Internship-Project</h1>
+    
+
 
 
 
