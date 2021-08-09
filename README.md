@@ -24,15 +24,15 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sha
 
 <h1 align="center">📜 Documents</h1>
 
-📜 [High Level Design](https://drive.google.com/file/d/1yz9iKBFcGbVTecRJZxTNn5ROcTPdGq7-/view?usp=sharing)
+📜 [High Level Design](https://drive.google.com/file/d/1FB4lvF8xGEZ2DvMSg55YLpQLGQkC9Lri/view?usp=sharing)
 
-📜 [Low Level Design](https://drive.google.com/file/d/1BfdKmU7-KIKhKoO39kATib7oXW8IY2gd/view?usp=sharing)
+📜 [Low Level Design](https://drive.google.com/file/d/1QyBalQY-14rOzXWH7iMko-ZpTwYuep2W/view?usp=sharing)
 
-📜[Architecture Design](https://drive.google.com/file/d/1rJlg9I30GFUseNwXFQuY-jkotluRRqyW/view?usp=sharing)
+📜[Architecture Design](https://drive.google.com/file/d/1eByxni4vMS-nh1Owb7PWKlnGW0kxnZpv/view?usp=sharing)
 
-📜[Wireframe Design](https://drive.google.com/file/d/1rvtqiYr0bzsywbV0_o_MTIPiqpZrk0SR/view?usp=sharing)
+📜[Wireframe Design](https://drive.google.com/file/d/1OAPWux5ihgqhrjbROp6ymFKVVUl582uI/view?usp=sharing)
 
-📜[Detailed Project Report](https://drive.google.com/file/d/1CKRjp4AX9LYVqHPDfNPKNRbVU-y7yW_L/view?usp=sharing)
+📜[Detailed Project Report](https://drive.google.com/file/d/12r_6koA0-1Xfke-RwkgJPK6_stQangzJ/view?usp=sharing)
 
 🛠[Find All the File](https://drive.google.com/drive/folders/1uWWIwgVvJUX-JFKCbMX8fqrPc-Z0rfnW?usp=sharing)
 
