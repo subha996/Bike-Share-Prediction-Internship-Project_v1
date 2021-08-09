@@ -1,0 +1,505 @@
+2021-08-04 12:04:00,707 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-04 12:04:00,708 - INFO - get_month_auto - Returning Current month auto options
+2021-08-04 12:04:00,709 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-04 12:04:00,709 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-04 12:04:00,710 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-04 12:04:00,710 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:04:00,711 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-04 12:04:00,712 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:04:00,712 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-04 12:04:00,712 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:04:00,713 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-04 12:04:00,713 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:04:54,003 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-04 12:04:54,003 - INFO - get_month_auto - Returning Current month auto options
+2021-08-04 12:04:54,004 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-04 12:04:54,004 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-04 12:04:54,004 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-04 12:04:54,004 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:04:54,005 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-04 12:04:54,005 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:04:54,005 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-04 12:04:54,005 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:04:54,005 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-04 12:04:54,006 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:07:13,308 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-04 12:07:13,308 - INFO - get_month_auto - Returning Current month auto options
+2021-08-04 12:07:13,309 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-04 12:07:13,309 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-04 12:07:13,309 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-04 12:07:13,310 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:07:13,310 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-04 12:07:13,310 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:07:13,310 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-04 12:07:13,310 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:07:13,311 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-04 12:07:13,311 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:10:35,312 - INFO - get_season_manually - Returning Manually season output
+2021-08-04 12:11:43,543 - INFO - get_season_manually - Returning Manually season output
+2021-08-04 12:13:15,684 - INFO - get_season_manually - Returning Manually season output
+2021-08-04 12:14:48,743 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-04 12:14:48,743 - INFO - get_month_auto - Returning Current month auto options
+2021-08-04 12:14:48,743 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-04 12:14:48,743 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-04 12:14:48,744 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-04 12:14:48,744 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:14:48,744 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-04 12:14:48,745 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:14:48,745 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-04 12:14:48,745 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:14:48,745 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-04 12:14:48,745 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:22:14,560 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-04 12:22:14,560 - INFO - get_month_auto - Returning Current month auto options
+2021-08-04 12:22:14,561 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-04 12:22:14,561 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-04 12:22:14,561 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-04 12:22:14,561 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:22:14,562 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-04 12:22:14,562 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:22:14,562 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-04 12:22:14,562 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:22:14,562 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-04 12:22:14,562 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-04 12:34:18,457 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-04 12:34:18,457 - INFO - get_month_auto - Returning Current month auto options
+2021-08-04 12:34:18,457 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-04 12:34:18,457 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-04 12:34:18,458 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-04 12:34:18,458 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-04 12:34:18,458 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-04 12:34:18,459 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-05 11:20:17,099 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-05 11:20:17,658 - INFO - get_month_auto - Returning Current month auto options
+2021-08-05 11:20:17,658 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-05 11:20:17,658 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-05 11:20:17,659 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-05 11:20:17,757 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-05 11:20:17,758 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-05 11:20:17,758 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-05 11:38:45,510 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-05 11:38:45,550 - INFO - get_month_auto - Returning Current month auto options
+2021-08-05 11:38:45,550 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-05 11:38:45,550 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-05 11:38:45,551 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-05 11:38:45,551 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-05 11:38:45,552 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-05 11:38:45,552 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 14:05:49,927 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 14:05:50,004 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 14:05:50,004 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 14:05:50,004 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 14:05:50,175 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 14:05:50,176 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 14:05:50,176 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 14:05:50,176 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:35:18,286 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:35:18,331 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:35:18,331 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:35:18,331 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:35:18,332 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:35:18,332 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:35:18,332 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:35:18,333 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:42:24,499 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:42:24,500 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:42:24,501 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:42:24,501 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:42:24,502 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:42:24,502 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:42:24,503 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:42:24,504 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:44:04,001 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:44:04,002 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:44:04,002 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:44:04,003 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:44:04,003 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:44:04,004 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:44:04,005 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:44:04,005 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:49:14,669 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:49:14,669 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:49:14,670 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:49:14,670 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:49:14,671 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:49:14,672 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:49:14,672 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:49:14,673 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:51:03,768 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:51:03,769 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:51:03,769 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:51:03,769 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:51:03,770 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:51:03,771 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:51:03,771 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:51:03,772 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:51:03,772 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:51:03,772 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:51:03,772 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:51:03,773 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:51:32,591 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:51:32,591 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:51:32,591 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:51:32,591 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:51:32,592 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:51:32,592 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:51:32,592 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:51:32,592 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:51:32,592 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:51:32,593 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:51:32,593 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:51:32,593 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:53:51,303 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:53:51,304 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:53:51,304 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:53:51,304 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:53:51,305 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:53:51,305 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:53:51,305 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:53:51,306 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:53:51,306 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:53:51,306 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:53:51,306 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:53:51,307 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:26,764 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:57:26,765 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:57:26,766 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:57:26,766 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:57:26,767 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:57:26,768 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:26,768 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:57:26,769 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:26,769 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:57:26,769 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:26,770 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:57:26,770 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:30,255 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:57:30,256 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:57:30,257 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:57:30,258 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:57:30,259 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:57:30,259 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:30,259 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:57:30,260 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:30,260 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:57:30,261 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:30,261 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:57:30,261 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:31,966 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:57:31,966 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:57:31,966 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:57:31,967 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:57:31,967 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:57:31,968 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:31,968 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:57:31,968 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:31,969 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:57:31,969 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:31,969 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:57:31,969 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:35,150 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:57:35,150 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:57:35,150 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:57:35,150 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:57:35,151 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:57:35,151 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:35,151 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:57:35,152 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:35,152 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:57:35,152 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:57:35,152 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:57:35,153 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:17,108 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:59:17,108 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:59:17,108 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:59:17,109 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:59:17,109 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:59:17,109 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:17,109 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:59:17,110 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:17,110 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:59:17,110 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:17,110 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:59:17,111 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:18,993 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 18:59:18,993 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 18:59:18,993 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 18:59:18,994 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 18:59:18,995 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 18:59:18,995 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:18,995 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 18:59:18,996 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:18,996 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 18:59:18,996 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 18:59:18,997 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 18:59:18,997 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:04:46,956 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:04:46,957 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:04:46,957 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:04:46,957 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:04:46,957 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:04:46,958 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:04:46,958 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:04:46,958 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:04:50,430 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:04:50,430 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:04:50,430 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:04:50,430 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:04:50,431 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:04:50,431 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:04:50,432 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:04:50,432 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:05:00,986 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:05:00,986 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:05:00,986 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:05:00,987 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:05:00,987 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:05:00,987 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:05:00,988 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:05:00,988 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:05:06,582 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:05:06,583 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:05:06,583 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:05:06,583 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:05:06,584 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:05:06,584 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:06,584 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:05:06,585 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:06,585 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:05:06,585 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:06,585 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:05:06,585 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:16,710 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:05:16,710 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:05:16,710 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:05:16,711 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:05:16,711 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:05:16,711 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:16,711 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:05:16,712 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:16,712 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:05:16,712 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:16,712 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:05:16,712 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:54,302 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:05:54,303 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:05:54,303 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:05:54,303 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:05:54,304 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:05:54,305 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:54,305 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:05:54,305 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:54,306 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:05:54,306 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:05:54,306 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:05:54,307 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:20,077 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:06:20,077 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:06:20,077 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:06:20,078 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:06:20,078 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:06:20,078 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:20,079 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:06:20,079 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:20,079 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:06:20,079 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:20,079 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:06:20,080 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:44,867 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:06:44,867 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:06:44,867 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:06:44,867 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:06:44,867 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:06:44,868 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:44,869 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:06:44,869 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:44,869 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:06:44,870 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:06:44,870 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:06:44,870 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:11:45,878 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:11:45,879 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:11:45,879 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:11:45,879 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:11:45,880 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:11:45,880 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:11:45,880 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:11:45,880 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:11:45,881 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:11:45,881 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:11:45,881 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:11:45,882 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:13:56,058 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:13:56,059 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:13:56,060 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:13:56,060 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:13:56,060 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:13:56,061 - INFO - get_temp_auto - Failed to return the temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:13:56,061 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:13:56,061 - INFO - get_feelslike_auto - Failed to return the Feels like Temperature value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:13:56,062 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:13:56,062 - INFO - get_humidity_auto - Failed to return the humidity value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:13:56,062 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:13:56,062 - INFO - get_wind_auto - Failed to return the wind value:- unsupported operand type(s) for /: 'NoneType' and 'int'
+2021-08-07 19:26:23,214 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:26:23,215 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:26:23,215 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:26:23,215 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:26:23,216 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:26:23,216 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:26:23,217 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:26:23,217 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:26:48,853 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:26:48,853 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:26:48,854 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:26:48,854 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:26:48,854 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:26:48,855 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:26:48,855 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:26:48,855 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:38:44,551 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:38:44,551 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:38:44,551 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:38:44,552 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:38:44,552 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:38:44,553 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:38:44,553 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:38:44,553 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:41:04,904 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:41:04,905 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:41:04,905 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:41:04,905 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:41:04,905 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:41:04,906 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:41:04,906 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:41:04,907 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:41:08,622 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:41:08,622 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:41:08,622 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:41:08,622 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:41:08,623 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:41:08,623 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:41:08,624 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:41:08,624 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:47:23,322 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:47:23,322 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:47:23,323 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:47:23,323 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:47:23,324 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:47:23,325 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:47:23,326 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:47:23,326 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:50:58,144 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:50:58,145 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:50:58,146 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:50:58,146 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:50:58,147 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:50:58,148 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:50:58,148 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:50:58,149 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:55:41,230 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:55:41,232 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:55:41,232 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:55:41,233 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:55:41,233 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:55:41,233 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:55:41,234 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:55:41,234 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:55:49,894 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:55:49,895 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:55:49,895 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:55:49,895 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:55:49,896 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:55:49,896 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:55:49,896 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:55:49,897 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:56:45,599 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:56:45,600 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:56:45,600 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:56:45,600 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:56:45,601 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:56:45,601 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:56:45,601 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:56:45,602 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:57:11,029 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:57:11,029 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:57:11,029 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:57:11,030 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:57:11,030 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:57:11,031 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:57:11,031 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:57:11,032 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:57:57,862 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:57:57,862 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:57:57,862 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:57:57,863 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:57:57,863 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:57:57,863 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:57:57,864 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:57:57,864 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:58:10,566 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:58:10,566 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:58:10,566 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:58:10,567 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:58:10,567 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:58:10,567 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:58:10,568 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:58:10,568 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-07 19:59:08,973 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-07 19:59:08,973 - INFO - get_month_auto - Returning Current month auto options
+2021-08-07 19:59:08,974 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-07 19:59:08,974 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-07 19:59:08,975 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-07 19:59:08,975 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-07 19:59:08,976 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-07 19:59:08,976 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-08 00:05:40,824 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-08 00:05:40,855 - INFO - get_month_auto - Returning Current month auto options
+2021-08-08 00:05:40,856 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-08 00:05:40,856 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-08 00:05:40,857 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-08 00:05:40,857 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-08 00:05:40,858 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-08 00:05:40,858 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-08 00:10:17,950 - INFO - get_season_manually - Returning Manually season output
+2021-08-08 00:13:53,684 - INFO - get_month_manually - Returning Manually month output
+2021-08-08 00:13:53,685 - INFO - get_weekday_manually - Returning the week day for manually options
+2021-08-08 00:13:53,685 - INFO - get_workingday_manually - Returning the working day for manually options
+2021-08-08 00:14:01,454 - INFO - get_month_manually - Returning Manually month output
+2021-08-08 00:14:01,454 - INFO - get_weekday_manually - Returning the week day for manually options
+2021-08-08 00:14:01,454 - INFO - get_workingday_manually - Returning the working day for manually options
+2021-08-08 00:14:11,889 - INFO - get_month_manually - Returning Manually month output
+2021-08-08 00:14:11,889 - INFO - get_weekday_manually - Returning the week day for manually options
+2021-08-08 00:14:11,889 - INFO - get_workingday_manually - Returning the working day for manually options
+2021-08-08 00:26:38,111 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-08 00:26:38,112 - INFO - get_month_auto - Returning Current month auto options
+2021-08-08 00:26:38,112 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-08 00:26:38,112 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-08 00:26:38,113 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-08 00:26:38,114 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-08 00:26:38,114 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-08 00:26:38,114 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-09 14:43:28,607 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-09 14:43:28,691 - INFO - get_month_auto - Returning Current month auto options
+2021-08-09 14:43:28,691 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-09 14:43:28,691 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-09 14:43:28,692 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-09 14:43:28,692 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-09 14:43:28,693 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-09 14:43:28,693 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-09 14:49:49,133 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-09 14:49:49,134 - INFO - get_month_auto - Returning Current month auto options
+2021-08-09 14:49:49,134 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-09 14:49:49,134 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-09 14:49:49,135 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-09 14:49:49,135 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-09 14:49:49,136 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-09 14:49:49,136 - INFO - get_wind_auto - Returning the Wind from the api
+2021-08-09 20:39:49,294 - INFO - get_season_auto - Returning the season in automatic option
+2021-08-09 20:39:49,295 - INFO - get_month_auto - Returning Current month auto options
+2021-08-09 20:39:49,295 - INFO - get_workingday_auto - Returning the working day for auto options
+2021-08-09 20:39:49,295 - INFO - get_weathersit_auto - Returning the weathersit for auto options
+2021-08-09 20:39:49,296 - INFO - get_temp_auto - Returning the Temperature for auto options
+2021-08-09 20:39:49,296 - INFO - get_feelslike_auto - Returning the Feels like Temperature for auto options
+2021-08-09 20:39:49,297 - INFO - get_humidity_auto - Returning the Humidity from the api
+2021-08-09 20:39:49,297 - INFO - get_wind_auto - Returning the Wind from the api

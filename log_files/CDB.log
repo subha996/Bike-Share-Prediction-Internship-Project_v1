@@ -1,0 +1,194 @@
+2021-08-07 23:47:01,839 - INFO - __init__ - Connecting to cassandra database
+2021-08-07 23:47:14,788 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-07 23:47:14,788 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-07 23:47:14,788 - INFO - __init__ - Primary key: 5
+2021-08-07 23:47:14,789 - INFO - data_send - Sending data to the database
+2021-08-07 23:47:15,293 - INFO - data_send - Error sending data to the database: Received an argument of invalid type for column "id". Expected: <class 'cassandra.cqltypes.Int32Type'>, Got: <class 'str'>; (required argument is not an integer)
+2021-08-07 23:47:15,293 - INFO - update_primarykey - Error updating primary key: can only concatenate str (not "int") to str
+2021-08-07 23:48:28,641 - INFO - __init__ - Connecting to cassandra database
+2021-08-07 23:48:43,225 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-07 23:48:43,225 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-07 23:48:43,225 - INFO - __init__ - Error opening primary key text file: can only concatenate str (not "int") to str
+2021-08-07 23:48:43,225 - INFO - data_send - Sending data to the database
+2021-08-07 23:48:43,974 - INFO - data_send - Data sent to the database
+2021-08-07 23:48:43,975 - INFO - update_primarykey - Primary key updated
+2021-08-07 23:50:39,634 - INFO - __init__ - Connecting to cassandra database
+2021-08-07 23:50:51,476 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-07 23:50:51,476 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-07 23:50:51,477 - INFO - __init__ - Error opening primary key text file: can only concatenate str (not "int") to str
+2021-08-07 23:50:51,477 - INFO - data_send - Sending data to the database
+2021-08-07 23:50:52,259 - INFO - data_send - Data sent to the database
+2021-08-07 23:50:52,260 - INFO - update_primarykey - Primary key updated
+2021-08-07 23:51:15,902 - INFO - __init__ - Connecting to cassandra database
+2021-08-07 23:51:27,691 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-07 23:51:27,691 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-07 23:51:27,692 - INFO - __init__ - Error opening primary key text file: can only concatenate str (not "int") to str
+2021-08-07 23:51:27,692 - INFO - data_send - Sending data to the database
+2021-08-07 23:51:28,443 - INFO - data_send - Data sent to the database
+2021-08-07 23:51:28,444 - INFO - update_primarykey - Primary key updated
+2021-08-07 23:54:25,186 - INFO - __init__ - Connecting to cassandra database
+2021-08-07 23:54:39,930 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-07 23:54:39,931 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-07 23:54:39,931 - INFO - __init__ - Primary key: 8
+2021-08-07 23:54:39,931 - INFO - data_send - Sending data to the database
+2021-08-07 23:54:40,690 - INFO - data_send - Data sent to the database
+2021-08-07 23:54:40,691 - INFO - update_primarykey - Primary key updated
+2021-08-07 23:55:21,311 - INFO - __init__ - Connecting to cassandra database
+2021-08-07 23:55:33,115 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-07 23:55:33,115 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-07 23:55:33,116 - INFO - __init__ - Primary key: 9
+2021-08-07 23:55:33,116 - INFO - data_send - Sending data to the database
+2021-08-07 23:55:33,888 - INFO - data_send - Data sent to the database
+2021-08-07 23:55:33,889 - INFO - update_primarykey - Primary key updated
+2021-08-08 00:04:44,986 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:04:59,637 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:04:59,637 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:04:59,637 - INFO - __init__ - Primary key: 10
+2021-08-08 00:05:03,895 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:05:15,624 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:05:15,624 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:05:15,624 - INFO - __init__ - Primary key: 10
+2021-08-08 00:05:40,940 - INFO - data_send - Sending data to the database
+2021-08-08 00:05:41,698 - INFO - data_send - Data sent to the database
+2021-08-08 00:05:41,699 - INFO - update_primarykey - Primary key updated 11
+2021-08-08 00:07:27,176 - INFO - data_send - Sending data to the database
+2021-08-08 00:07:27,673 - INFO - data_send - Error sending data to the database: Received an argument of invalid type for column "season". Expected: <class 'cassandra.cqltypes.FloatType'>, Got: <class 'str'>; (required argument is not a float)
+2021-08-08 00:07:27,674 - INFO - update_primarykey - Primary key updated 12
+2021-08-08 00:08:37,506 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:08:49,196 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:08:49,196 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:08:49,196 - INFO - __init__ - Primary key: 12
+2021-08-08 00:08:55,328 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:09:10,053 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:09:10,053 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:09:10,054 - INFO - __init__ - Primary key: 12
+2021-08-08 00:09:26,866 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:09:41,630 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:09:41,631 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:09:41,631 - INFO - __init__ - Primary key: 12
+2021-08-08 00:09:45,095 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:09:56,812 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:09:56,813 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:09:56,813 - INFO - __init__ - Primary key: 12
+2021-08-08 00:10:17,960 - INFO - data_send - Sending data to the database
+2021-08-08 00:10:18,466 - INFO - data_send - Error sending data to the database: Received an argument of invalid type for column "month". Expected: <class 'cassandra.cqltypes.FloatType'>, Got: <class 'str'>; (required argument is not a float)
+2021-08-08 00:10:18,467 - INFO - update_primarykey - Primary key updated 13
+2021-08-08 00:11:03,417 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:11:18,019 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:11:18,019 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:11:18,019 - INFO - __init__ - Primary key: 13
+2021-08-08 00:11:24,687 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:11:36,170 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:11:36,170 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:11:36,171 - INFO - __init__ - Primary key: 13
+2021-08-08 00:13:24,799 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:13:39,506 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:13:39,507 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:13:39,507 - INFO - __init__ - Primary key: 13
+2021-08-08 00:15:13,749 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:15:25,556 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:15:25,556 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:15:25,556 - INFO - __init__ - Primary key: 13
+2021-08-08 00:15:28,629 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:15:40,391 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:15:40,392 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:15:40,392 - INFO - __init__ - Primary key: 13
+2021-08-08 00:16:15,695 - INFO - data_send - Sending data to the database
+2021-08-08 00:16:16,205 - INFO - data_send - Error sending data to the database: Received an argument of invalid type for column "season". Expected: <class 'cassandra.cqltypes.FloatType'>, Got: <class 'str'>; (required argument is not a float)
+2021-08-08 00:16:16,207 - INFO - update_primarykey - Primary key updated 14
+2021-08-08 00:20:42,236 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:20:57,019 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:20:57,019 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:20:57,019 - INFO - __init__ - Primary key: 14
+2021-08-08 00:20:59,995 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:21:11,642 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:21:11,642 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:21:11,642 - INFO - __init__ - Primary key: 14
+2021-08-08 00:21:33,554 - INFO - data_send - Sending data to the database
+2021-08-08 00:21:34,294 - INFO - data_send - Data sent to the database
+2021-08-08 00:21:34,295 - INFO - update_primarykey - Primary key updated 15
+2021-08-08 00:23:06,845 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:23:18,479 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:23:18,480 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:23:18,480 - INFO - __init__ - Primary key: 15
+2021-08-08 00:23:24,540 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:23:39,341 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:23:39,341 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:23:39,342 - INFO - __init__ - Primary key: 15
+2021-08-08 00:24:26,562 - INFO - data_send - Sending data to the database
+2021-08-08 00:24:27,330 - INFO - data_send - Data sent to the database
+2021-08-08 00:24:27,331 - INFO - update_primarykey - Primary key updated 16
+2021-08-08 00:25:51,286 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:26:06,001 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:26:06,001 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:26:06,001 - INFO - __init__ - Primary key: 16
+2021-08-08 00:26:10,980 - INFO - __init__ - Connecting to cassandra database
+2021-08-08 00:26:22,693 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-08 00:26:22,693 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-08 00:26:22,694 - INFO - __init__ - Primary key: 16
+2021-08-08 00:26:38,124 - INFO - data_send - Sending data to the database
+2021-08-08 00:26:38,912 - INFO - data_send - Data sent to the database
+2021-08-08 00:26:38,913 - INFO - update_primarykey - Primary key updated 17
+2021-08-09 14:34:33,658 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:34:46,289 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:34:46,289 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:34:46,289 - INFO - __init__ - Primary key: 17
+2021-08-09 14:34:50,156 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:35:01,803 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:35:01,803 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:35:01,803 - INFO - __init__ - Primary key: 17
+2021-08-09 14:35:54,079 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:36:05,849 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:36:05,894 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:36:05,895 - INFO - __init__ - Primary key: 17
+2021-08-09 14:36:48,574 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:37:00,383 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:37:00,383 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:37:00,384 - INFO - __init__ - Primary key: 17
+2021-08-09 14:37:31,438 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:37:46,144 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:37:46,144 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:37:46,145 - INFO - __init__ - Primary key: 17
+2021-08-09 14:38:00,307 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:38:12,039 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:38:12,039 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:38:12,039 - INFO - __init__ - Primary key: 17
+2021-08-09 14:38:44,100 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:38:58,885 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:38:58,885 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:38:58,886 - INFO - __init__ - Primary key: 17
+2021-08-09 14:39:20,268 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:39:34,996 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:39:34,996 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:39:34,997 - INFO - __init__ - Primary key: 17
+2021-08-09 14:39:39,322 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:39:55,526 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:39:55,526 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:39:55,527 - INFO - __init__ - Primary key: 17
+2021-08-09 14:40:14,594 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 14:40:29,259 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 14:40:29,259 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 14:40:29,261 - INFO - __init__ - Primary key: 17
+2021-08-09 14:43:20,720 - INFO - data_send - Sending data to the database
+2021-08-09 14:43:21,702 - INFO - data_send - Data sent to the database
+2021-08-09 14:43:21,703 - INFO - update_primarykey - Primary key updated 18
+2021-08-09 14:43:28,706 - INFO - data_send - Sending data to the database
+2021-08-09 14:43:29,466 - INFO - data_send - Data sent to the database
+2021-08-09 14:43:29,467 - INFO - update_primarykey - Primary key updated 19
+2021-08-09 14:49:49,148 - INFO - data_send - Sending data to the database
+2021-08-09 14:49:49,927 - INFO - data_send - Data sent to the database
+2021-08-09 14:49:49,928 - INFO - update_primarykey - Primary key updated 20
+2021-08-09 20:39:07,237 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 20:39:20,588 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 20:39:20,588 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 20:39:20,589 - INFO - __init__ - Primary key: 20
+2021-08-09 20:39:24,752 - INFO - __init__ - Connecting to cassandra database
+2021-08-09 20:39:36,408 - INFO - __init__ - Connected to cassandra database Successfull: 4.0.0.6814
+2021-08-09 20:39:36,408 - INFO - __init__ - Opening primary key text file to read primary key
+2021-08-09 20:39:36,408 - INFO - __init__ - Primary key: 20
+2021-08-09 20:39:49,393 - INFO - data_send - Sending data to the database
+2021-08-09 20:39:51,379 - INFO - data_send - Data sent to the database
+2021-08-09 20:39:51,512 - INFO - update_primarykey - Primary key updated 21
+2021-08-09 20:40:08,834 - INFO - data_send - Sending data to the database
+2021-08-09 20:40:09,597 - INFO - data_send - Data sent to the database
+2021-08-09 20:40:09,598 - INFO - update_primarykey - Primary key updated 22

@@ -1,0 +1,36 @@
+2021-08-09 20:39:39,686 - INFO - homePage - ---------------Home Page Have Shown --------------
+2021-08-09 20:39:46,451 - INFO - contributor - Showing the Contributor page
+2021-08-09 20:39:49,294 - INFO - predictAutomatically - User Choose Automatic Way
+2021-08-09 20:39:49,294 - INFO - predictAutomatically - 1. Season : 2
+2021-08-09 20:39:49,295 - INFO - predictAutomatically - 2. Month : 8
+2021-08-09 20:39:49,295 - INFO - predictAutomatically - 3. Weekday : 0
+2021-08-09 20:39:49,295 - INFO - predictAutomatically - 4. Working Day : 1
+2021-08-09 20:39:49,295 - INFO - predictAutomatically - 5. Weather Site : 3
+2021-08-09 20:39:49,296 - INFO - predictAutomatically - 6. Temperature : 0.7553658536585366
+2021-08-09 20:39:49,296 - INFO - predictAutomatically - 7. Air Temperature : 0.7594
+2021-08-09 20:39:49,297 - INFO - predictAutomatically - 8. Humidity : 0.94
+2021-08-09 20:39:49,297 - INFO - predictAutomatically - 9. Wind Speed : 0.03835820895522388
+2021-08-09 20:39:49,297 - INFO - predictAutomatically - Finished taking Input from user
+2021-08-09 20:39:49,297 - INFO - predictAutomatically - Creating array and doing the prediction
+2021-08-09 20:39:49,378 - INFO - predictAutomatically - Prediction done, Showing the Result
+2021-08-09 20:39:49,378 - INFO - predictAutomatically - Sending data to Database
+2021-08-09 20:39:51,379 - INFO - predictAutomatically - Data Sent to Database
+2021-08-09 20:39:51,512 - INFO - predictAutomatically - Primary Key Updated
+2021-08-09 20:40:08,293 - INFO - predictManually - User Choose Predict Manually
+2021-08-09 20:40:08,467 - INFO - predictManually - 1. Season : 1
+2021-08-09 20:40:08,468 - INFO - predictManually - 2. Month : 3
+2021-08-09 20:40:08,468 - INFO - predictManually - 3. Weekday : 1
+2021-08-09 20:40:08,468 - INFO - predictManually - 4. Working Day : 1
+2021-08-09 20:40:08,468 - INFO - predictManually - 5. Weather Site : 2
+2021-08-09 20:40:08,468 - INFO - predictManually - 6. Temperature : 32
+2021-08-09 20:40:08,468 - INFO - predictManually - 7. Air Temperature : 40
+2021-08-09 20:40:08,468 - INFO - predictManually - 8. Humidity : 70
+2021-08-09 20:40:08,468 - INFO - predictManually - 9. Wind Speed : 2.0
+2021-08-09 20:40:08,469 - INFO - predictManually - Finished taking Input from user
+2021-08-09 20:40:08,469 - INFO - predictManually - Creating array and doing the prediction
+2021-08-09 20:40:08,834 - INFO - predictManually - Prediction done Showing the Result
+2021-08-09 20:40:08,834 - INFO - predictManually - Sending data to Database
+2021-08-09 20:40:09,597 - INFO - predictManually - Data Sent to Database
+2021-08-09 20:40:09,598 - INFO - predictManually - Primary Key Updated
+2021-08-09 20:40:09,598 - INFO - predictManually - Data Sent to Database
+2021-08-09 20:41:37,414 - INFO - contributor - Showing the Contributor page

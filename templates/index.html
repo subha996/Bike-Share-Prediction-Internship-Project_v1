@@ -1,0 +1,178 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<form action="/predict-manually" method="POST">
+  <div class="MainDiv">  
+<label><div class="Header">Bike Share Prediction</div></label><br/><br/>
+<input type="button" id="Auto" value="Automatic">
+<input type="button" id="Manu" value="Manual"><br/><br/>
+<div class="desc">Bike Share Predicton System can help business owner to predict the expected custome for a particular
+  day. Here two options are given. Choose Automatic If you want to predict expected customer for your
+  current location and weather condition. And in Manually you can enter input as per your requirement.</div>
+  <br/><br/>
+<div class="subdiv1 Dat">
+<table class="tab">
+  <tbody>
+    <tr>
+      <td><div class="tHead">Season</div></td>
+      <td><div class="tHead">Month</div></td>
+      <td><div class="tHead">WeekDay</div></td>
+    </tr>
+
+    <tr>
+      <td><select name="season" id="season">
+        <option value=''>--Select season--</option>
+        <option value='1'>Spring</option>
+        <option value='2'>Summer</option>
+        <option value='3'>Fall</option>
+        <option value='4'>Winter</option>
+      </select></td>
+      <td><select class="Dat" name="month" id="month">
+        <option value=''>--Select month--</option>
+        <option value='1'>Janaury</option>
+        <option value='2'>February</option>
+        <option value='3'>March</option>
+        <option value='4'>April</option>
+        <option value='5'>May</option>
+        <option value='6'>June</option>
+        <option value='7'>July</option>
+        <option value='8'>August</option>
+        <option value='9'>September</option>
+        <option value='10'>October</option>
+        <option value='11'>November</option>
+        <option value='12'>December</option>
+      </select></td>
+      <td><select class="Dat" name="weekday" id="weekday">
+        <option value=''>--Select weekday--</option>
+        <option value='0'>Monday</option>
+        <option value='1'>Tuesday</option>
+        <option value='2'>Wednesday</option>
+        <option value='3'>Thursday</option>
+        <option value='4'>Friday</option>
+        <option value='5'>Saturday</option>
+        <option value='6'>Sunday</option>
+      </select></td>
+    </tr>
+
+    <tr>
+      <td><div class="tHead">Working Day</div></td>
+      <td><div class="tHead">Weather Condition</div></td>
+      <td><div class="tHead">Temperature</div></td>
+    </tr>
+
+    <tr>
+      <td>  <select class="Dat" name="workingday" id="workingday">
+        <option value=''>--Select working day--</option>
+        <option value='1'>Yes</option>
+        <option value='2'>No</option>
+      </select></td>
+      <td><select class="Dat" name="weathersit" id="weathersit">
+        <option value=''>--Select weathersit--</option>
+        <option value='1'>Clear</option>
+        <option value='2'>Clouds</option>
+        <option value='3'>Rain</option>
+      </select></td>
+      <td><input class="Dat" type="text" id="temp" name="temp"></td>
+    </tr>
+    <tr>
+      <td><div class="tHead">Feels Like Temperature</div></td>
+      <td><div class="tHead">Humidity</div></td>
+      <td><div class="tHead">Wind speed</div></td>
+    </tr>
+    <tr>
+      <td> <input class="Dat" type="text" id="atemp" name="atemp"></td>
+      <td><input class="Dat" type="text" id="hum" name="hum"></td>
+      <td><input class="Dat" type="text" id="windspeed" name="windspeed"></td>
+    </tr>
+    </tbody>
+    </table>
+        <br/><br/>      
+  <input  class="Dat"  id="sDat" type="Submit" value="Submit">
+   </div>
+  </div>
+  <div class="contrib"><input type="button" id="cTB" value="Contributors"></div>
+</form>
+<style>
+  .contrib{ text-align: center; padding-right: 10px;}
+.tHead{
+  display: inline-block;
+    width: 26%;
+    border: 1px solid;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: RGB(192,222,172);
+    
+}
+#sDat{
+    border-radius: 7px;
+    padding: 10px;
+    background: RGB(192,222,172);
+    cursor: pointer;
+   }
+.tab td{ vertical-align: bottom; }
+.Header{ display: inline-block; width: 80%; border: 2px solid #000; text-align: center; font-size: 25px; }
+.desc{ margin-top: 5%; display: inline-block; width: 80%; border: 2px solid #000; text-align: center; font-size: 16px; }
+.tab label{ width: 30%; display: inline-block; text-align: left; }
+.tab select{ display: inline-block; width: 60%; margin-bottom: 8%; padding: 5px; }
+#temp{ margin-bottom: 8%; }
+input.Dat{ display: inline-block; width: 30%; }
+body{ background: lightgrey;text-align: center; }
+form{ margin-top: 10%; margin-left: 20%; margin-right: 20%; background: #fff; }
+.MainDiv{ padding-top: 5%; padding-bottom: 5%; position: relative; }
+.subdiv1{ width: 100%; }
+.tab{ width: 100%; text-align: center; }
+#Auto, #Manu,#ctB {
+  background-color: RGB(192,222,172); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  width: 15%;
+  cursor: pointer;
+}
+#ctB
+{
+  padding: 10px 10px;
+  margin-bottom: 10px;
+  background: #fff;
+  color: #000;
+}
+#Auto{
+    margin-right: 29%;
+    margin-top: 5%;
+    background-color: RGB(248,199,165); /* red */
+    padding-right: 20px;
+}
+
+#Manu{
+    margin-top: 5%;
+}
+
+</style>
+
+<script>
+$(function(){
+$('#temp').closest('td').css('vertical-align','top');
+$('.Dat').css('display','none');
+$('#Auto').click(function(){
+$('form').attr('action','/predict-automatically')
+$('#sDat').click();
+});
+$('#Manu').click(function(){
+    $('.Desc').css('display','none');
+    $('.Dat').css('display','inline-block');
+    $('form').attr('action','/predict-manually').css('margin-top','0%');
+   
+});
+
+$('#cTB').click(function(){
+  $('form').attr('action','/Contributer')
+  $('#sDat').click();
+});
+
+});
+</script>

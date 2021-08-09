@@ -1,0 +1,5 @@
+python==3.8.10
+scikit-learn==0.23.2
+Flask==2.0.1
+Flask-Cors==3.0.10
+ipinfo==4.2.1
