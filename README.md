@@ -1,11 +1,6 @@
 <h1 align="center">Bike-Share-Prediction-Internship-Project</h1>
     
 
-### Contributor
-
-[Avinash Sindwani](https://www.linkedin.com/in/avinash-sindwani-07291325/)
-
-[Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/)
 
 # 📝 Description
 
@@ -24,7 +19,16 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sha
 * scikit-learn
 * Flask
 * Flask-Cors
-* ipinfo
+* ipinfo.io
+* openweathermap.org
+
+
+
+# ⛹️‍♂️Contributor
+
+[Avinash Sindwani](https://www.linkedin.com/in/avinash-sindwani-07291325/)
+
+[Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/)
 
 
 
