@@ -34,6 +34,7 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sha
 
 📜[Detailed Project Report](https://drive.google.com/file/d/1CKRjp4AX9LYVqHPDfNPKNRbVU-y7yW_L/view?usp=sharing)
 
+🛠[Find All the File](https://drive.google.com/drive/folders/1uWWIwgVvJUX-JFKCbMX8fqrPc-Z0rfnW?usp=sharing)
 
 
 
