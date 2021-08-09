@@ -13,7 +13,7 @@ The Project is about to build a system where the client can predict Expected cus
 
 The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
-# 🖥️ Installation
+<h1 align="center">🖥️ Installation</h1>
 
 * Python
 * scikit-learn
