@@ -19,7 +19,7 @@ class OpenWeather():
             except Exception as e:
                 log.info("Failed to recieve lat lon form ipinfo class " + str(e))
             # seetting up the api key for the weather api
-            self.api = "89d62ca068de047688cd063429205893" # privete api key
+            self.api = "APIs key here" # privete api key
             self.url = "https://api.openweathermap.org/data/2.5/weather?" + "lat=" + str(self.lat) + "&lon="+ str(self.lon) +  "&units=metric" + "&appid=" + self.api
             # getting responce form weather api
             try:
