@@ -18,7 +18,7 @@ class CDB(): # creating a class CDB: Cassandra DataBase
             self.cloud_config= {
                             'secure_connect_bundle': 'DBSend/secure-connect-database1.zip'
                         } 
-            self.auth_provider = PlainTextAuthProvider('sWSsgfrfxpukXnmXnHkxZbRI', 'YUcLBrvHMnq_piJZbhad,UQzPPX3NLKyWOg1pi9ar6KR78XIps774i6xK1DxDXmn9AJeBf-359uxfB.6w,fqmKajtG_8Ak,ZZ-nMOfxT7-cnHm,ghpOZw2GP82uGbAfc')
+            self.auth_provider = PlainTextAuthProvider(<privet key here>)
             self.cluster = Cluster(cloud=self.cloud_config, auth_provider=self.auth_provider)
             self.session = self.cluster.connect()
             self.row = self.session.execute("select release_version from system.local").one()
