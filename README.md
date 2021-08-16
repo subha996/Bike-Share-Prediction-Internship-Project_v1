@@ -36,7 +36,7 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sha
 
 🛠[Find All the File](https://drive.google.com/drive/folders/1uWWIwgVvJUX-JFKCbMX8fqrPc-Z0rfnW?usp=sharing)
 
-🎞🎞 [Video Explanation](https://youtu.be/tloXg5kwNKI)
+🎞 [Video Explanation](https://youtu.be/tloXg5kwNKI)
 
 🎈 [Linkedin Post](https://www.linkedin.com/posts/subhabrata-nath-181375115_ineuron-machinelearning-python-activity-6830560035966480384-ZhJH)
 
