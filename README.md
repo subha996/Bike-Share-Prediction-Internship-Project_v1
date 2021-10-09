@@ -9,7 +9,7 @@ The Project is about to build a system where the client can predict Expected cus
 
 ![alt-text](https://github.com/subha996/Bike-Share-Prediction-Internship-Project_v1/blob/main/webappdemo.gif)
 
-<h1 align="center">⏳🏉🎱🥌⛸⛸😂🤣😃😄😅 Dataset</h1>
+<h1 align="center">🏉 Dataset</h1>
 
 The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
