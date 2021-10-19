@@ -27,7 +27,12 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sha
 ![image](https://user-images.githubusercontent.com/85347886/137850083-f52b50ef-770a-4092-b259-a486980fd49a.png)
 
 ### 🎇 API's Workflows
+
 ![bike_apiworkflows](https://user-images.githubusercontent.com/85347886/137850454-e128249d-88a5-4822-9a42-7d299bf63bb4.png)
+
+### User Input/Output Workflow
+
+![bike_ui_flow](https://user-images.githubusercontent.com/85347886/137850655-735137e3-f5b7-420a-ac8d-fe549e051970.png)
 
 
 <h1 align="center">📜 Documents</h1>
