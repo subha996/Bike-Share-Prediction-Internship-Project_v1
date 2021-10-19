@@ -22,6 +22,11 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sha
 * ipinfo.io
 * openweathermap.org
 
+### Architecture Design
+
+![image](https://user-images.githubusercontent.com/85347886/137850083-f52b50ef-770a-4092-b259-a486980fd49a.png)
+
+
 <h1 align="center">📜 Documents</h1>
 
 📜 [High Level Design](https://drive.google.com/file/d/1FB4lvF8xGEZ2DvMSg55YLpQLGQkC9Lri/view?usp=sharing)
